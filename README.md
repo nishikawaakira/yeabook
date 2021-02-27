@@ -14,7 +14,7 @@ Yamato Event Analyzer - Yea!
 ファイル単位 Windowsイベントログファイルを指定する  
 -f --filepath=[FILEPATH]
 
-ディレクトリ単位 Windowsイベントログが入っているディレクトリを指定する 
+ディレクトリ単位 Windowsイベントログが入っているディレクトリを指定する  
 -d --directory=[DIRECTORY]  
 
 
