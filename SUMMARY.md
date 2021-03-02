@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [yeaの目標](goal.md)
 * [ルールファイルの書き方](rule.md)
 * [eventkey_aliasについて](eventkey_alias.md)
 
