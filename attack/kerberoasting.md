@@ -11,3 +11,8 @@ Kerberos 認証について
 
 ![kerberoasting1](images/kerberoasting1.png)
 
+![kerberoasting2](images/kerberoasting2.png)
+
+![kerberoasting3](images/kerberoasting3.png)
+
+![kerberoasting4](images/kerberoasting4.png)
