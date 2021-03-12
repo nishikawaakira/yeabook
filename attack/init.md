@@ -9,9 +9,11 @@
 - ロギング拡張
 - Kerberos認証
 
-現在検証中の攻撃手法は以下の通りです。（2021.03.10時点）
+
 
 ＜検証攻撃＞
+現在検証中の攻撃手法は以下の通りです。（2021.03.10時点）
+
 - Kerberoasting
 - ASREP_Roasting
 - Powershell Downgrade Attacks
