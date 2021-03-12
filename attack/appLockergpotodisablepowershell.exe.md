@@ -1,7 +1,7 @@
 # AppLocker GPO to disable powershell.exe
 
 
-AppLocker GPO to disable powershell.exe Ç…Ç¬Ç¢Çƒ
+AppLocker GPO to disable powershell.exe „Å´„Å§„ÅÑ„Å¶
 -------------
 
 ![AppLockerGPOtodisablepowershell.exe1](images/AppLockerGPOtodisablepowershell.exe1.png)
