@@ -12,14 +12,14 @@ YEAラボに関するドキュメント
 環境設定に関するドキュメント
 -------------
 - ロギング拡張
-- AppLocker GPO to disable powershell
+- [AppLocker GPO to disable powershell](appLockergpotodisablepowershell.md)
 
 
 攻撃検証に関するドキュメント
 -------------
 現在検証中の攻撃手法は以下の通りです。（2021.03.10時点）
 
-- [Kerberoasting](attack/kerberoasting.md)
+- [Kerberoasting](kerberoasting.md)
 - ASREP Roasting
 - Powershell Downgrade Attacks
 - Powershell without Powershell.exe
