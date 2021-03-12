@@ -12,7 +12,6 @@
 
 
 ＜検証攻撃＞
-
 現在検証中の攻撃手法は以下の通りです。（2021.03.10時点）
 
 - Kerberoasting
@@ -20,5 +19,5 @@
 - Powershell Downgrade Attacks
 - Powershell without Powershell.exe
 - Password Spray
-- wsreset(LoLBAS)
+- wsreset (LoLBAS)
 
