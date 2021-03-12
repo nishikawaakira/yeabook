@@ -12,7 +12,7 @@ YEAラボに関するドキュメント
 環境設定に関するドキュメント
 -------------
 - ロギング拡張
-- Kerberos認証
+- AppLocker GPO to disable powershell
 
 
 攻撃検証に関するドキュメント
