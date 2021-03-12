@@ -14,5 +14,6 @@
 * [攻撃検証](attack/README.md)
     * [攻撃検証はじめ](attack/init.md)
     * [Kerberoasting](attack/kerberoasting.md)
+    * [AppLocker GPO to disable powershell.exe](attack/AppLockerGPOtodisablepowershell.md)
     
 * [リンク集](links.md)
