@@ -9,5 +9,5 @@ Kerberoasting とは Service Principal Names (SPN) が設定されているサ�
 Kerberos 認証について
 -------------
 
-
+[kerberoasting1](images/kerberoasting1.png)
 
