@@ -14,6 +14,12 @@
 * [攻撃検証](attack/README.md)
     * [攻撃検証はじめ](attack/init.md)
     * [Kerberoasting](attack/kerberoasting.md)
+    * [ASREP Roasting](attack/ASREP_Roasting.md)
+    * [Powershell Downgrade Attacks](attack/Powershell_Downgrade_Attacks.md)
     * [AppLocker GPO](attack/appLockergpotodisablepowershell.exe.md)
+    * [Powershell without Powershell.exe](attack/Powershell_without_Powershell.exe.md)
+    * [Password Spray](attack/Password_Spray.md)
+    * [wsreset (LoLBAS)](attack/wsreset.md)
+
     
 * [リンク集](links.md)
