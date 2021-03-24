@@ -111,16 +111,3 @@ Sysmon64 started.
 最後に、イベントログに Sysmon ログが出力されていることを確認します。
 
 ![Sysmon-2](images/Sysmon-2.png)
-
-PowerShellログ モジュールログ (EID4103)
--------------
-
-
-
-PowerShellログ スクリプトブロックログ (EID4104)
--------------
-
-
-
-PowerShellログ トランスクリプション (テキスト出力)
--------------
