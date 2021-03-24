@@ -16,12 +16,12 @@
     * [Enable Logging - Sysmon](attack/logging-sysmon.md)
     * [Enable Logging - PowerShell](attack/logging-powershell.md)
     * [T1566.001 - Phishing Spearphishing Attachment](attack/T1566.001.md)
+    * [T1110.003 - Brute Force Password Spraying](attack/T1110.003.md)
     * [Kerberoasting](attack/kerberoasting.md)
     * [ASREP Roasting](attack/ASREP_Roasting.md)
     * [Powershell Downgrade Attacks](attack/Powershell_Downgrade_Attacks.md)
     * [AppLocker GPO](attack/appLockergpotodisablepowershell.exe.md)
     * [Powershell w/o Powershell.exe](attack/Powershell_without_Powershell.exe.md)
-    * [T1110.003 - Brute Force Password Spraying](attack/T1110.md)
     * [wsreset (LoLBAS)](attack/wsreset.md)
 
     
