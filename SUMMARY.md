@@ -13,7 +13,7 @@
     
 * [攻撃検証](attack/README.md)
     * [目次](attack/init.md)
-    * [ログ設定_tmp](attack/logging.md)
+    * [ログ拡張](attack/logging.md)
     * [Kerberoasting](attack/kerberoasting.md)
     * [ASREP Roasting](attack/ASREP_Roasting.md)
     * [Powershell Downgrade Attacks](attack/Powershell_Downgrade_Attacks.md)
