@@ -12,7 +12,8 @@
     * [議事録](develop/minutes.md)
     
 * [攻撃検証](attack/README.md)
-    * [攻撃検証はじめ](attack/init.md)
+    * [目次](attack/init.md)
+    * [ログ設定](attack/logging.md)
     * [Kerberoasting](attack/kerberoasting.md)
     * [ASREP Roasting](attack/ASREP_Roasting.md)
     * [Powershell Downgrade Attacks](attack/Powershell_Downgrade_Attacks.md)
