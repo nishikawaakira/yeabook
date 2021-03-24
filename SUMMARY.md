@@ -13,8 +13,8 @@
     
 * [攻撃検証](attack/README.md)
     * [目次](attack/init.md)
-    * [ロギング拡張 - Sysmon](attack/logging-sysmon.md)
-    * [ロギング拡張 - PowerShell](attack/logging-powershell.md)
+    * [Enable Logging - Sysmon](attack/logging-sysmon.md)
+    * [Enable Logging - PowerShell](attack/logging-powershell.md)
     * [Kerberoasting](attack/kerberoasting.md)
     * [ASREP Roasting](attack/ASREP_Roasting.md)
     * [Powershell Downgrade Attacks](attack/Powershell_Downgrade_Attacks.md)

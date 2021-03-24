@@ -1,6 +1,6 @@
-# ロギング拡張 - Powershell
+# Enable Logging - Powershell
 
-ロギング拡張
+Enable Logging
 -------------
 
 検証環境では以下のログ拡張を適用します。
