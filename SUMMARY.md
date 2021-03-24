@@ -21,7 +21,7 @@
     * [Powershell Downgrade Attacks](attack/Powershell_Downgrade_Attacks.md)
     * [AppLocker GPO](attack/appLockergpotodisablepowershell.exe.md)
     * [Powershell w/o Powershell.exe](attack/Powershell_without_Powershell.exe.md)
-    * [T1110 - Brute _Force-Password_Spraying](attack/T1110.md)
+    * [T1110.003 - Brute Force Password Spraying](attack/T1110.md)
     * [wsreset (LoLBAS)](attack/wsreset.md)
 
     
