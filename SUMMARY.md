@@ -15,6 +15,7 @@
     * [目次](attack/init.md)
     * [Enable Logging - Sysmon](attack/logging-sysmon.md)
     * [Enable Logging - PowerShell](attack/logging-powershell.md)
+    * [T1566.001_Phishing Spearphishing Attachment](attack/T1566.001.md)
     * [Kerberoasting](attack/kerberoasting.md)
     * [ASREP Roasting](attack/ASREP_Roasting.md)
     * [Powershell Downgrade Attacks](attack/Powershell_Downgrade_Attacks.md)
