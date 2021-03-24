@@ -8,7 +8,6 @@
 - Sysmon
 - PowerShellログ モジュールログ (EID4103)
 - PowerShellログ スクリプトブロックログ (EID4104)
-- PowerShellログ トランスクリプション (テキスト出力)
 
 
 PowerShellログ モジュールログ (EID4103)
@@ -36,10 +35,12 @@ Microsoft.WSMan.Management
 PowerShellログ スクリプトブロックログ (EID4104)
 -------------
 
+ローカルグループポリシーエディタを開き、「Windows Powershell」 -> 「PowerShell スクリプトブロックのログ記録を有効にする」をクリックします。
 
+![ScriptBlock-Log1](images/scriptblock-log-1.png)
 
-PowerShellログ トランスクリプション (テキスト出力)
--------------
+「有効」にチェックをいれることでスクリプトブロックの出力を有効化することができます。
+最後に、イベントログにおいてスクリプトブロックログのイベント ID  4104 が出力されることを確認します。
 
+![ScriptBlock-Log2](images/scriptblock-log-2.png)
 
-![Sysmon-1](images/Sysmon-1.png)

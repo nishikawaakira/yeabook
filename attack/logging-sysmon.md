@@ -8,7 +8,6 @@
 - Sysmon
 - PowerShellログ モジュールログ (EID4103)
 - PowerShellログ スクリプトブロックログ (EID4104)
-- PowerShellログ トランスクリプション (テキスト出力)
 
 
 Sysmon
