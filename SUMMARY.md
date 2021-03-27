@@ -21,7 +21,7 @@
     * [Kerberoasting](attack/kerberoasting.md)
     * [ASREP Roasting](attack/ASREP_Roasting.md)
     * [Powershell Downgrade Attacks](attack/Powershell_Downgrade_Attacks.md)
-    * [AppLocker GPO](attack/appLockergpotodisablepowershell.exe.md)
+    * [AppLocker GPO to Powershell.exe](attack/appLockergpotodisablepowershell.exe.md)
     * [Powershell w/o Powershell.exe](attack/Powershell_without_Powershell.exe.md)
     * [wsreset (LoLBAS)](attack/wsreset.md)
 
