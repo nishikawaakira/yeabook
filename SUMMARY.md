@@ -13,8 +13,9 @@
     
 * [攻撃検証](attack/README.md)
     * [目次](attack/init.md)
-    * [Enable Logging - Sysmon](attack/logging-sysmon.md)
-    * [Enable Logging - PowerShell](attack/logging-powershell.md)
+    * [ラボ環境](attack/lab/init.md)
+        * [Enable Logging - Sysmon](attack/lab/logging-sysmon.md)
+        * [Enable Logging - PowerShell](attack/lab/logging-powershell.md)
     * [T1566.001 - Phishing Spearphishing Attachment](attack/T1566.001.md)
     * [T1110.003 - Brute Force Password Spraying](attack/T1110.003.md)
     * [T1218.004 - InstallUtil](attack/T1218.004.md)
