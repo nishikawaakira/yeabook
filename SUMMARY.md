@@ -13,6 +13,7 @@
     
 * [攻撃検証](attack/README.md)
     * [目次](attack/init.md)
+    * [Enable Logging - Sysmon](attack/logging-sysmon.md)
     * [Lab環境](attack/Lab/init.md)
         * [Enable Logging - Sysmon](attack/Lab/logging-sysmon.md)
         * [Enable Logging - PowerShell](attack/Lab/logging-powershell.md)
