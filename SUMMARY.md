@@ -22,7 +22,6 @@
     * [Credential Access](attack/CredentialAccess/init.md)
         * [T1110.003 - Brute Force Password Spraying](attack/CredentialAccess/T1110.003.md)
         * [Kerberoasting](attack/CredentialAccess/T1558.003_kerberoasting.md)
-        * [ASREP Roasting](attack/CredentialAccess/T1558.004_ASREP_Roasting.md)
     * [Defense Evasion](attack/DefenseEvasion/init.md)
         * [T1218.004 - InstallUtil](attack/DefenseEvasion/T1218.004.md)
 
