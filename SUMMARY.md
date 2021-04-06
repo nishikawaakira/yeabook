@@ -13,7 +13,7 @@
     
 * [攻撃検証](attack/README.md)
     * [目次](attack/init.md)
-    * [Lab環境](attack/lab/init.md)
+    * [Lab環境](attack/Lab/init.md)
         * [Enable Logging - Sysmon](attack/Lab/logging-sysmon.md)
         * [Enable Logging - PowerShell](attack/Lab/logging-powershell.md)
         * [AppLocker GPO to Powershell.exe](attack/AppLocker_GPO_for_PS.md)
