@@ -1,3 +1,3 @@
 # 目次
 
-ラボページ
+YEA Labratory
