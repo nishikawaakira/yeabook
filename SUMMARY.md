@@ -16,7 +16,7 @@
     * [Lab環境](attack/Lab/init.md)
         * [Enable Logging - Sysmon](attack/Lab/logging-sysmon.md)
         * [Enable Logging - PowerShell](attack/Lab/logging-powershell.md)
-        * [AppLocker GPO to Powershell.exe](attack/AppLocker_GPO_for_PS.md)
+        * [AppLocker GPO to Powershell.exe](attack/Lab/AppLocker_GPO_for_PS.md)
     * [Initial Access](attack/InitialAccess/init.md)
         * [T1566.001 - Phishing Spearphishing Attachment](attack/InitialAccess/T1566.001.md)
     * [Credential Access](attack/CredentialAccess/init.md)
