@@ -63,7 +63,7 @@ d-----       2021/02/14     15:21                sysmon-modular
 
 Sysmon のコンフィグファイルは以下の構成となっています。
 
-![Sysmon-1](./images/Sysmon-1.png)
+![Sysmon-1](images/Sysmon/1.png)
 
 ここで、付属されているコンフィグマージツール Merge-SysmonXml.ps1 を用いて、インストール時に指定する
 コンフィグファイル sysmonconfig.xml を生成します。
@@ -109,4 +109,4 @@ Sysmon64 started.
 
 最後に、イベントログに Sysmon ログが出力されていることを確認します。
 
-![Sysmon-2](images/Sysmon-2.png)
+![Sysmon-2](images/Sysmon/2.png)
