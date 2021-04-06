@@ -9,6 +9,7 @@ Enable Logging
 - PowerShellログ モジュールログ (EID4103)
 - PowerShellログ スクリプトブロックログ (EID4104)
 
+ここでは、Sysmonの設定について記載します。
 
 Sysmon
 -------------

@@ -9,6 +9,7 @@ Enable Logging
 - PowerShellログ モジュールログ (EID4103)
 - PowerShellログ スクリプトブロックログ (EID4104)
 
+ここでは、PowerShellログの拡張ログであるモジュールログとスクリプトブロックログの設定について記載します。
 
 PowerShellログ モジュールログ (EID4103)
 -------------
