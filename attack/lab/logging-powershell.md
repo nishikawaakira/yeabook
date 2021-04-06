@@ -15,7 +15,7 @@ PowerShellログ モジュールログ (EID4103)
 
 ローカルグループポリシーエディタを開き、「Windows Powershell」 -> 「モジュールログを有効にする」をクリックします。
 
-![Module-Log1](images/PowershellLog/1.png)
+![Module-Log-1](images/PowershellLog/1.png)
 
 オプションの「表示」をクリックし下記を入力します。
 
