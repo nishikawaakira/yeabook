@@ -13,8 +13,6 @@
     
 * [攻撃検証](attack/README.md)
     * [目次](attack/init.md)
-    * [Enable Logging - Sysmon](attack/logging-sysmon.md)
-    * [T1566.001 - Phishing Spearphishing Attachment](attack/T1566.001.md)
     * [Lab環境](attack/lab/init.md)
         * [Enable Logging - Sysmon](attack/lab/logging-sysmon.md)
         * [Enable Logging - PowerShell](attack/lab/logging-powershell.md)
@@ -23,7 +21,7 @@
         * [T1566.001 - Phishing Spearphishing Attachment](attack/InitialAccess/T1566.001.md)
     * [Credential Access](attack/CredentialAccess/init.md)
         * [T1110.003 - Brute Force Password Spraying](attack/CredentialAccess/T1110.003.md)
-        * [Kerberoasting](attack/CredentialAccess/T1558.003_kerberoasting.md)
+        * [T1558.003 - Kerberoasting](attack/CredentialAccess/T1558.003.md)
     * [Defense Evasion](attack/DefenseEvasion/init.md)
         * [T1218.004 - InstallUtil](attack/DefenseEvasion/T1218.004.md)
 
