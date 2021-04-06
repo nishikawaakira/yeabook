@@ -15,7 +15,7 @@ PowerShellログ モジュールログ (EID4103)
 
 ローカルグループポリシーエディタを開き、「Windows Powershell」 -> 「モジュールログを有効にする」をクリックします。
 
-![Module-Log1](images/Powershell/1.png)
+![Module-Log1](images/PowershellLog/1.png)
 
 オプションの「表示」をクリックし下記を入力します。
 
@@ -29,7 +29,7 @@ Microsoft.WSMan.Management
 その後、「有効」にチェックをいれることでモジュールログの出力を有効化することができます。
 最後に、イベントログにおいてモジュールログのイベント ID  4103 が出力されることを確認します。
 
-![Module-Log3](images/Powershell/3.png)
+![Module-Log3](images/PowershellLog/3.png)
 
 
 PowerShellログ スクリプトブロックログ (EID4104)
@@ -37,10 +37,10 @@ PowerShellログ スクリプトブロックログ (EID4104)
 
 ローカルグループポリシーエディタを開き、「Windows Powershell」 -> 「PowerShell スクリプトブロックのログ記録を有効にする」をクリックします。
 
-![ScriptBlock-Log1](images/scriptblock-log-1.png)
+![ScriptBlock-Log1](images/PowershellLog/4.png)
 
 「有効」にチェックをいれることでスクリプトブロックの出力を有効化することができます。
 最後に、イベントログにおいてスクリプトブロックログのイベント ID  4104 が出力されることを確認します。
 
-![ScriptBlock-Log2](images/scriptblock-log-2.png)
+![ScriptBlock-Log2](images/PowershellLog/5.png)
 

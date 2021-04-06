@@ -4,54 +4,54 @@
 AppLocker GPO to disable powershell.exe について
 -------------
 
-![AppLockerGPOtodisablepowershell.exe1](images/AppLockerGPOtodisablepowershell.exe1.png)
+![AppLocker/1](images/AppLocker/1.png)
 
-![AppLockerGPOtodisablepowershell.exe2](images/AppLockerGPOtodisablepowershell.exe2.png)
+![AppLocker/2](images/AppLocker/2.png)
 
-![AppLockerGPOtodisablepowershell.exe3](images/AppLockerGPOtodisablepowershell.exe3.png)
+![AppLocker/3](images/AppLocker/3.png)
 
-![AppLockerGPOtodisablepowershell.exe4](images/AppLockerGPOtodisablepowershell.exe4.png)
+![AppLocker/4](images/AppLocker/4.png)
 
-![AppLockerGPOtodisablepowershell.exe5](images/AppLockerGPOtodisablepowershell.exe5.png)
+![AppLocker/5](images/AppLocker/5.png)
 
-![AppLockerGPOtodisablepowershell.exe6](images/AppLockerGPOtodisablepowershell.exe6.png)
+![AppLocker/6](images/AppLocker/6.png)
 
-![AppLockerGPOtodisablepowershell.exe7](images/AppLockerGPOtodisablepowershell.exe7.png)
+![AppLocker/7](images/AppLocker/7.png)
 
-![AppLockerGPOtodisablepowershell.exe8](images/AppLockerGPOtodisablepowershell.exe8.png)
+![AppLocker/8](images/AppLocker/8.png)
 
-![AppLockerGPOtodisablepowershell.exe9](images/AppLockerGPOtodisablepowershell.exe9.png)
+![AppLocker/9](images/AppLocker/9.png)
 
-![AppLockerGPOtodisablepowershell.exe10](images/AppLockerGPOtodisablepowershell.exe10.png)
+![AppLocker/10](images/AppLocker/10.png)
 
-![AppLockerGPOtodisablepowershell.exe11](images/AppLockerGPOtodisablepowershell.exe11.png)
+![AppLocker/11](images/AppLocker/11.png)
 
-![AppLockerGPOtodisablepowershell.exe12](images/AppLockerGPOtodisablepowershell.exe12.png)
+![AppLocker/12](images/AppLocker/12.png)
 
-![AppLockerGPOtodisablepowershell.exe13](images/AppLockerGPOtodisablepowershell.exe13.png)
+![AppLocker/13](images/AppLocker/13.png)
 
-![AppLockerGPOtodisablepowershell.exe14](images/AppLockerGPOtodisablepowershell.exe14.png)
+![AppLocker/14](images/AppLocker/14.png)
 
-![AppLockerGPOtodisablepowershell.exe15](images/AppLockerGPOtodisablepowershell.exe15.png)
+![AppLocker/15](images/AppLocker/15.png)
 
-![AppLockerGPOtodisablepowershell.exe16](images/AppLockerGPOtodisablepowershell.exe16.png)
+![AppLocker/16](images/AppLocker/16.png)
 
-![AppLockerGPOtodisablepowershell.exe17](images/AppLockerGPOtodisablepowershell.exe17.png)
+![AppLocker/17](images/AppLocker/17.png)
 
-![AppLockerGPOtodisablepowershell.exe18](images/AppLockerGPOtodisablepowershell.exe18.png)
+![AppLocker/18](images/AppLocker/18.png)
 
-![AppLockerGPOtodisablepowershell.exe19](images/AppLockerGPOtodisablepowershell.exe19.png)
+![AppLocker/19](images/AppLocker/19.png)
 
-![AppLockerGPOtodisablepowershell.exe20](images/AppLockerGPOtodisablepowershell.exe20.png)
+![AppLocker/20](images/AppLocker/20.png)
 
-![AppLockerGPOtodisablepowershell.exe21](images/AppLockerGPOtodisablepowershell.exe21.png)
+![AppLocker/21](images/AppLocker/21.png)
 
-![AppLockerGPOtodisablepowershell.exe22](images/AppLockerGPOtodisablepowershell.exe22.png)
+![AppLocker/22](images/AppLocker/22.png)
 
-![AppLockerGPOtodisablepowershell.exe23](images/AppLockerGPOtodisablepowershell.exe23.png)
+![AppLocker/23](images/AppLocker/23.png)
 
-![AppLockerGPOtodisablepowershell.exe24](images/AppLockerGPOtodisablepowershell.exe24.png)
+![AppLocker/24](images/AppLocker/24.png)
 
-![AppLockerGPOtodisablepowershell.exe25](images/AppLockerGPOtodisablepowershell.exe25.png)
+![AppLocker/25](images/AppLocker/25.png)
 
-![AppLockerGPOtodisablepowershell.exe26](images/AppLockerGPOtodisablepowershell.exe26.png)
+![AppLocker/26](images/AppLocker/26.png)
