@@ -36,7 +36,7 @@ https://www.splunk.com/en_us/download/universal-forwarder.html
 
 ![Splunk-2](images/Splunk/2.png)
 
-インストール
+Splunk のインストール
 -------------
 
 Splunk をインストールするサーバ上で、インストーラを実行します。
@@ -103,3 +103,83 @@ APP を追加するためには、APP のサーチから APP の名称で検索�
 - Splunk Add-on for Microsoft Windows
 - Splunk Add-On for Microsoft Sysmon
 - Force Directed App For Splunk
+
+Splunk Universal Forwarder のインストール
+-------------
+
+ログを取得したい端末にて Splunk Universal Forwarder をインストールします。
+標準機能でのイベントログの転送設定後、拡張ログである Powershell ログ、および Sysmon を転送するための設定を追加していきます。
+
+・Splunk Universal Forwarder のインストーラを実行します。ライセンスに同意し On-premise を選択したのち「Customize Options」を押下します。
+
+![Splunk-17](images/Splunk/17.png)
+
+・そのまま「Next」で進めます。
+
+![Splunk-18](images/Splunk/18.png)
+
+・証明書は設定せずに進めます。
+
+![Splunk-19](images/Splunk/19.png)
+
+・ローカルシステムでのインストールを選択します。
+
+![Splunk-20](images/Splunk/20.png)
+
+・転送するログについては、「Application Logs」「Security Logs」「System Logs」を選択します。
+
+![Splunk-21](images/Splunk/21.png)
+
+・管理者の Username と Password を設定します。
+
+![Splunk-22](images/Splunk/22.png)
+
+・Deployment Server は構築しないためブランクで進めます。
+
+![Splunk-23](images/Splunk/23.png)
+
+・構築した Splunk サーバの IP アドレスとポート番号を設定します。
+
+![Splunk-24](images/Splunk/24.png)
+
+・その後、「Install」を押下することでインストールが開始されます。
+
+![Splunk-25](images/Splunk/25.png)
+
+拡張ログの転送設定
+-------------
+
+追加の設定として、以下の拡張ログを転送する設定を行います。
+
+- Microsoft-Windows-PowerShell/Operational
+- Microsoft-Windows-Sysmon/Operational
+- Microsoft-Windows-Sysmon/Operational
+
+Splunk Universal Forwarder の設定ファイルである inputs.conf ファイルで追加の転送設定が可能です。
+
+![Splunk-26](images/Splunk/26.png)
+
+C:\Program Files\SplunkUniversalForwarder\etc\system\local ディレクトリにある inputs.conf ファイルに以下の内容を追記します。
+
+```
+[default]
+host = user1-PC※ホスト名を入れる
+
+[WinEventLog://Microsoft-Windows-PowerShell/Operational]
+disabled = false
+renderXml = true
+
+[WinEventLog://Microsoft-Windows-Sysmon/Operational]
+disabled = false
+renderXml = true
+
+[WinEventLog://Microsoft-Windows-Sysmon/Operational]
+disabled = false
+renderXml = true
+```
+
+inputs.conf ファイルの設定を反映させるために、サービスより Splunk Forwarder Service を再起動します。
+
+![Splunk-27](images/Splunk/27.png)
+
+サービスの再起動後から、追加のログの転送が開始されます。
