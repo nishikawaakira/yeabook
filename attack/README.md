@@ -5,6 +5,9 @@
 環境設定
 -------------
 
+**Active Directory Lab**
+- [Lab Setup Tool](lab/LabSetupTool.md)
+
 **Logging**
 - [Enable Logging - Powershell](lab/logging-powershell.md)
 - [Enable Logging - Sysmon](lab/logging-sysmon.md)
