@@ -22,20 +22,20 @@ https://www.splunk.com/en_us/download/universal-forwarder.html
 - Splunk Enterprise 8.1.3
 - Splunk Universal Forwarder 8.1.3
 
-![Sysmon-1](images/Sysmon/1.png)
+![Splunk-1](images/Splunk/1.png)
 
-![Sysmon-2](images/Sysmon/2.png)
+![Splunk-2](images/Splunk/2.png)
 
 Splunkサーバの構築
 -------------
 
 今回は、検証環境にそれぞれ Splunk Universal Forwarder をインストールします。
 
-![Sysmon-3](images/Sysmon/3.png)
+![Splunk-3](images/Splunk/3.png)
 
 Splunk をインストールするサーバ上で、インストーラを実行します。
 その後は以下の手順に従ってインストールを完了させます。
 
 ・ライセンスに同意し「Customize Options」を押下する。
 
-![Sysmon-4](images/Sysmon/4.png)
+![Splunk-4](images/Splunk/4.png)
