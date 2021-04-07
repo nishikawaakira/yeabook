@@ -13,5 +13,11 @@
 現在検証中の攻撃手法は以下の通りです。（2021.04.07時点）
 
 **InitialAccess**
-- [T1566.001 - Phishing Spearphishing Attachment](lab/InitialAccess/T1566.001.md)
+- [T1566.001 - Phishing Spearphishing Attachment](InitialAccess/T1566.001.md)
 
+**DefenseEvasion**
+- [T1218.004 - InstallUtil](DefenseEvasion/T1218.004.md)
+
+**CredentialAccess**
+- [T1110.003 - Password Spraying](CredentialAccess/T1110.003.md)
+- [T1558.003 - Kerberoasting](CredentialAccess/T1558.003.md)
