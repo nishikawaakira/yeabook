@@ -4,9 +4,16 @@
 
 環境設定
 -------------
+
+**ロギング拡張**
 - [Enable Logging - Powershell](lab/logging-powershell.md)
 - [Enable Logging - Sysmon](lab/logging-sysmon.md)
+
+**AppLocker**
 - [AppLocker GPO to disable powershell.exe](lab/AppLocker_GPO_for_PS.md)
+
+**Splunk**
+- [AppLocker GPO to disable powershell.exe](lab/Splunk.md)
 
 攻撃検証
 -------------
