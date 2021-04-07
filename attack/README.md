@@ -5,7 +5,7 @@
 環境設定
 -------------
 
-**ロギング拡張**
+**Logging**
 - [Enable Logging - Powershell](lab/logging-powershell.md)
 - [Enable Logging - Sysmon](lab/logging-sysmon.md)
 
