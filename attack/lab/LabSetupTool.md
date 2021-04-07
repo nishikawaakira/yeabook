@@ -1,3 +1,4 @@
+```
 # banner
 $banner = @()
 $banner += ''
@@ -231,3 +232,4 @@ function CreateDNSAdmins {
 	net localgroup "DnsAdmins" Alice /add
 
 }
+```
