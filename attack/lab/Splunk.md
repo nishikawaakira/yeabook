@@ -7,15 +7,25 @@ Splunk サーバの構築と Splunk Universal Forwarder のインストール
 検証環境に Splunk Universal Forwarder をインストールし、イベントログを Splunk サーバへ集約します。
 本章では Splunk 環境の構築手順について記載します。
 
+ログ転送の構成
+-------------
+
+今回は、検証環境にそれぞれ Splunk Universal Forwarder をインストールしイベントログを Splunk サーバへ転送します。
+
+![Splunk-3](images/Splunk/3.png)
+
 インストーラ
 -------------
 
 以下のサイトからインストーラのダウンロードを行います。
 
 **Splunk Enterprise のダウンロード**
+
 https://www.splunk.com/en_us/download/splunk-enterprise.html
 
+
 **Splunk Universal Forwarder のダウンロード**
+
 https://www.splunk.com/en_us/download/universal-forwarder.html
 
 2021年4月3日時点では以下のバージョンとなります。
@@ -26,12 +36,8 @@ https://www.splunk.com/en_us/download/universal-forwarder.html
 
 ![Splunk-2](images/Splunk/2.png)
 
-Splunkサーバの構築
+インストール
 -------------
-
-今回は、検証環境にそれぞれ Splunk Universal Forwarder をインストールします。
-
-![Splunk-3](images/Splunk/3.png)
 
 Splunk をインストールするサーバ上で、インストーラを実行します。
 その後は以下の手順に従ってインストールを完了させます。
@@ -83,3 +89,17 @@ Splunk をインストールするサーバ上で、インストーラを実行�
 ・ログ受信用のルールが設定されたことを確認します。ここではルール名を「Splunk Universal Forwarder」としています。
 
 ![Splunk-15](images/Splunk/15.png)
+
+
+Splunk APP の追加
+-------------
+
+APP を追加するためには、APP のサーチから APP の名称で検索することが可能です。
+
+![Splunk-16](images/Splunk/16.png)
+
+本検証環境では、以下の APP をインストールします。
+
+- Splunk Add-on for Microsoft Windows
+- Splunk Add-On for Microsoft Sysmon
+- Force Directed App For Splunk
