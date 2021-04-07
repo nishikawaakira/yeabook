@@ -13,7 +13,7 @@
 - [AppLocker GPO to disable powershell.exe](lab/AppLocker_GPO_for_PS.md)
 
 **Splunk**
-- [AppLocker GPO to disable powershell.exe](lab/Splunk.md)
+- [Install Splunk & Universal Forwarder](lab/Splunk.md)
 
 攻撃検証
 -------------
